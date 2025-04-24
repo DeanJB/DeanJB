@@ -7,8 +7,8 @@ Full Stack Developer | Student
 * 🌍  I'm based in Whangarei, New Zealand
 * ✉️  You can contact me at [deanjordanbarrow@gmail.com](mailto:deanjordanbarrow@gmail.com)
 * 🚀  I'm currently working on [Z Station App](http://TheKoalaBear/Mission-05-Frontend/branches)
-* 🧠  I'm learning React, Node.js, Some Python On The Side
-* 🤝  I'm open to collaborating on mental health related chatbots
+* 🧠  I'm learning React, Node.js, Some Python On The Side.
+* 🤝  I'm open to collaborating on AI related projects.
 * ⚡  YOLO
 
 ### Skills
