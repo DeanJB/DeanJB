@@ -23,11 +23,7 @@ Full Stack Developer
 
 ### Badges
 
-<b>My GitHub Stats</b>
 
-<a href="https://github.com/DeanJB">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DeanJB&theme=react-dark&hide_border=true&area=true" />
-</a>
 
 
 
