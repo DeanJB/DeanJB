@@ -29,10 +29,6 @@ Full Stack Developer
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DeanJB&theme=react-dark&hide_border=true&area=true" />
 </a>
 
-<a href="http://www.github.com/DeanJB"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DeanJB&stroke=ffffff&background=000000&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/DeanJB">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DeanJB&bg_color=000000&color=ffffff&line=ef4444&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" />
-</a>
 
 
